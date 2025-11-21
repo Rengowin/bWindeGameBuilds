@@ -12,7 +12,7 @@ The temporary music is from the *Subnautica* soundtrack and was added for academ
 
 ---
 
-## ⭐ About the Project
+## About the Project
 
 This prototype focuses on implementing a straightforward **high-score based gameplay loop**, including:
 
@@ -31,14 +31,14 @@ This prototype focuses on implementing a straightforward **high-score based game
 
 ---
 
-## 🎮 Controls
+## Controls
 
 - **Left Mouse Button** – with the UI interaction (upgrade menu, pause and main menu) 
 - **Upgrades** – Accessible through the menu (pause recommended)  
 
 ---
 
-## 👤 Author
+## Author
 
 **Benjamin Winde**  
 LinkedIn: https://www.linkedin.com/in/benjamin-winde-718122395/
